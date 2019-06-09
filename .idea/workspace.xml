@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1531e8c-5a0b-4eb7-94de-83dba48ad935" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week1/31regex_substitution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/32validating_email_addresses_with_a_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/test/1test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/test/2test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,20 +65,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week1/7validating_credit_card_number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week1/test/1test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week1/test/2test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week1/2if_else.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week1/1hello.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week1/32validating_email_addresses_with_a_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="264">
+              <caret line="12" column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -122,6 +147,10 @@
         <option value="$PROJECT_DIR$/week1/30capitalize.py" />
         <option value="$PROJECT_DIR$/week1/31regex_substitution.py" />
         <option value="$PROJECT_DIR$/week1/32validating_email_addresses_with_a_filter.py" />
+        <option value="$PROJECT_DIR$/week1/7validating_credit_card_number.py" />
+        <option value="$PROJECT_DIR$/week1/test/test1hello.py" />
+        <option value="$PROJECT_DIR$/week1/test/1test.py" />
+        <option value="$PROJECT_DIR$/week1/test/2test.py" />
       </list>
     </option>
   </component>
@@ -149,6 +178,12 @@
               <item name="chocoremint" type="b2602c69:ProjectViewProjectNode" />
               <item name="chocoremint" type="462c0819:PsiDirectoryNode" />
               <item name="week1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chocoremint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chocoremint" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,12 +224,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560022971541</updated>
       <workItem from="1560022973669" duration="7657000" />
-      <workItem from="1560060569510" duration="15240000" />
+      <workItem from="1560060569510" duration="18256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22897000" />
+    <option name="totallyTimeSpent" value="25913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -438,22 +473,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1/7validating_credit_card_number.py">
+    <entry file="file://$PROJECT_DIR$/week1/32validating_email_addresses_with_a_filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="12" column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1/32validating_email_addresses_with_a_filter.py">
+    <entry file="file://$PROJECT_DIR$/week1/7validating_credit_card_number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="374">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/test/1test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/1hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/test/2test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/2if_else.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
