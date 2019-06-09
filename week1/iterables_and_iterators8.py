@@ -1,18 +1,27 @@
 import itertools
 import sys
 
-n = int(sys.stdin.readline())
 
-s = sys.stdin.readline().strip().replace(" ", "")
+def iterables():
+    n = int(sys.stdin.readline())
 
-m = int(sys.stdin.readline())
+    s = sys.stdin.readline().strip().replace(" ", "")
 
-combinations = list(itertools.combinations(s, m))
+    m = int(sys.stdin.readline())
 
-combinations_with_a = 0
+    combinations = list(itertools.combinations(s, m))
 
-for i in combinations:
-    if 'a' in i:
-        combinations_with_a += 1
+    combinations_with_a = 0
 
-print(combinations_with_a/len(combinations))
+    for i in combinations:
+        if 'a' in i:
+            combinations_with_a += 1
+
+    print(combinations_with_a/len(combinations))
+    return combinations_with_a/len(combinations)
+
+def main():
+    iterables()
+
+if __name__ == '__main__':
+    main()

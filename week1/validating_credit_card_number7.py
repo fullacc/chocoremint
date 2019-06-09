@@ -1,18 +1,19 @@
+import sys
 import re
 
 
-def fun(s):
-    return True if re.compile(r"^[a-zA-Z][\w-]*@[a-zA-Z0-9]+\.[a-zA-Z]{1,3}$").match(s) else False
+def validate():
+    reg = re.compile(r"^" r"(?!.*(\d)(-?\1){3})" r"[456]" r"\d{3}" r"(?:-?\d{4}){3}" r"$")
+    res = []
+    n = int(sys.stdin.readline())
 
-def filter_mail(emails):
-    return list(filter(fun, emails))
+    for i in range(0, n):
+        s = sys.stdin.readline()
+        print("Valid" if reg.search(s) else "Invalid")
+        res.append("Valid" if reg.search(s) else "Invalid")
+    return res
+def main():
+    validate()
 
 if __name__ == '__main__':
-    n = int(input())
-    emails = []
-    for _ in range(n):
-        emails.append(input())
-
-filtered_emails = filter_mail(emails)
-filtered_emails.sort()
-print(filtered_emails)
+    main()
