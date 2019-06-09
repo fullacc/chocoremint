@@ -16,6 +16,6 @@ def test_case_2(monkeypatch):
     assert main() == [0, 1, 4, 9, 16, 25, 36]
 
 
-def test_case_2(monkeypatch):
+def test_case_3(monkeypatch):
     monkeypatch.setattr("sys.stdin", test3)
     assert main() == [0, 1]
