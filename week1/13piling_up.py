@@ -3,22 +3,22 @@ import math
 
 
 def try_build(stack, block=math.inf):
-    if not stack:
-        return True
-    if stack[0] > stack[-1]:
-        if stack[0] <= block:
-            block = stack[0]
-            stack.popleft()
-            return try_build(stack, block)
+    while stack:
+        if stack[0] > stack[-1]:
+            if stack[0] <= block:
+                # print(stack[0])
+                block = stack[0]
+                stack.popleft()
+            else:
+                return False
         else:
-            return False
-    else:
-        if stack[-1] <= block:
-            block = stack[-1]
-            stack.pop()
-            return try_build(stack, block)
-        else:
-            return False
+            if stack[-1] <= block:
+                # print(stack[-1])
+                block = stack[-1]
+                stack.pop()
+            else:
+                return False
+    return True
 
 
 n = int(input())
