@@ -224,23 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in 15test.py">
-    <configuration name="pytest for 14test.test_case_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="chocoremint" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;14test.test_case_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest in 16test.py">
     <configuration name="pytest for 14test.test_case_3" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="chocoremint" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,13 +289,29 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in 16test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="chocoremint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/week1/tests/16test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in 16test.py" />
         <item itemvalue="Python tests.pytest in 15test.py" />
         <item itemvalue="Python tests.pytest for 15test.test_case_2" />
         <item itemvalue="Python tests.pytest for 15test.test_case_1" />
         <item itemvalue="Python tests.pytest for 14test.test_case_3" />
-        <item itemvalue="Python tests.pytest for 14test.test_case_2" />
       </list>
     </recent_temporary>
   </component>
@@ -396,30 +396,31 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_11test_test_case_1.coverage" NAME="pytest for 11test.test_case_1 Coverage Results" MODIFIED="1560102934173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_14test_test_case_3.coverage" NAME="pytest for 14test.test_case_3 Coverage Results" MODIFIED="1560105145827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_12test_test_case_2.coverage" NAME="pytest for 12test.test_case_2 Coverage Results" MODIFIED="1560103759494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_8test_test_case_1.coverage" NAME="pytest for 8test.test_case_1 Coverage Results" MODIFIED="1560101570207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_3test_test_double.coverage" NAME="pytest for 3test.test_double Coverage Results" MODIFIED="1560098863583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_11test_TestCases_test_case_1.coverage" NAME="pytest for 11test.TestCases.test_case_1 Coverage Results" MODIFIED="1560102846509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_2test_test_case_1.coverage" NAME="pytest for 2test.test_case_1 Coverage Results" MODIFIED="1560098421594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_3test_test_case_2.coverage" NAME="pytest for 3test.test_case_2 Coverage Results" MODIFIED="1560098997628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_6test_test_case_1.coverage" NAME="pytest for 6test.test_case_1 Coverage Results" MODIFIED="1560099741972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_5test_test_case_2.coverage" NAME="pytest for 5test.test_case_2 Coverage Results" MODIFIED="1560099514011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_15test_test_case_1.coverage" NAME="pytest for 15test.test_case_1 Coverage Results" MODIFIED="1560105296245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_12test_test_case_1.coverage" NAME="pytest for 12test.test_case_1 Coverage Results" MODIFIED="1560103583794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_7test_test_case_1.coverage" NAME="pytest for 7test.test_case_1 Coverage Results" MODIFIED="1560101406470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_in_16test_py.coverage" NAME="pytest in 16test.py Coverage Results" MODIFIED="1560105537821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_4test_test_case_2.coverage" NAME="pytest for 4test.test_case_2 Coverage Results" MODIFIED="1560099307640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_15test_test_case_2.coverage" NAME="pytest for 15test.test_case_2 Coverage Results" MODIFIED="1560105299556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_12test_test_case_3.coverage" NAME="pytest for 12test.test_case_3 Coverage Results" MODIFIED="1560103816866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_13test_test_case_1.coverage" NAME="pytest for 13test.test_case_1 Coverage Results" MODIFIED="1560104231470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_14test_test_case_1.coverage" NAME="pytest for 14test.test_case_1 Coverage Results" MODIFIED="1560105027689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_in_15test_py.coverage" NAME="pytest in 15test.py Coverage Results" MODIFIED="1560105305159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_4test_test_case_1.coverage" NAME="pytest for 4test.test_case_1 Coverage Results" MODIFIED="1560099281275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_5test_test_case_1.coverage" NAME="pytest for 5test.test_case_1 Coverage Results" MODIFIED="1560099460151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_11test_test_case_1.coverage" NAME="pytest for 11test.test_case_1 Coverage Results" MODIFIED="1560102934173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_14test_test_case_3.coverage" NAME="pytest for 14test.test_case_3 Coverage Results" MODIFIED="1560105145827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_3test_test_double.coverage" NAME="pytest for 3test.test_double Coverage Results" MODIFIED="1560098863583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_2test_test_case_1.coverage" NAME="pytest for 2test.test_case_1 Coverage Results" MODIFIED="1560098421594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_12test_test_case_1.coverage" NAME="pytest for 12test.test_case_1 Coverage Results" MODIFIED="1560103583794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_15test_test_case_2.coverage" NAME="pytest for 15test.test_case_2 Coverage Results" MODIFIED="1560105299556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_12test_test_case_3.coverage" NAME="pytest for 12test.test_case_3 Coverage Results" MODIFIED="1560103816866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_14test_test_case_2.coverage" NAME="pytest for 14test.test_case_2 Coverage Results" MODIFIED="1560105122721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_6test_test_case_2.coverage" NAME="pytest for 6test.test_case_2 Coverage Results" MODIFIED="1560099773487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_9test_test_case_1.coverage" NAME="pytest for 9test.test_case_1 Coverage Results" MODIFIED="1560102372863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_5test_test_case_1.coverage" NAME="pytest for 5test.test_case_1 Coverage Results" MODIFIED="1560099460151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/week1/30capitalize.py">
