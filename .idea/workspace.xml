@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1531e8c-5a0b-4eb7-94de-83dba48ad935" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week1/23any_or_all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/20reduce_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/20reduce_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/24map_and_lambda_expression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week1/23any_or_all.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week1/24map_and_lambda_expression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -64,6 +71,7 @@
         <option value="$PROJECT_DIR$/week1/22validating_postal_code.py" />
         <option value="$PROJECT_DIR$/week1/20reduce_function.py" />
         <option value="$PROJECT_DIR$/week1/23any_or_all.py" />
+        <option value="$PROJECT_DIR$/week1/24map_and_lambda_expression.py" />
       </list>
     </option>
   </component>
@@ -131,12 +139,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560022971541</updated>
       <workItem from="1560022973669" duration="7657000" />
-      <workItem from="1560060569510" duration="7118000" />
+      <workItem from="1560060569510" duration="8018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14775000" />
+    <option name="totallyTimeSpent" value="15675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -313,6 +321,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/24map_and_lambda_expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
