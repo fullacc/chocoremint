@@ -2,7 +2,7 @@ import re
 
 
 def fun(s):
-    return True if re.compile(r"^[a-zA-Z][\w-]*@[a-zA-Z0-9]+\.[a-zA-Z]{1,3}$").match(s) else False
+    return True if re.compile(r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]{1:3}$)").match(s) else False
 
 def filter_mail(emails):
     return list(filter(fun, emails))
