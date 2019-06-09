@@ -3,6 +3,7 @@ from ..loops5 import *
 
 test1 = StringIO("5\n")
 test2 = StringIO("7\n")
+test3 = StringIO("2\n")
 
 
 def test_case_1(monkeypatch):
@@ -13,3 +14,8 @@ def test_case_1(monkeypatch):
 def test_case_2(monkeypatch):
     monkeypatch.setattr("sys.stdin", test2)
     assert main() == [0, 1, 4, 9, 16, 25, 36]
+
+
+def test_case_2(monkeypatch):
+    monkeypatch.setattr("sys.stdin", test3)
+    assert main() == [0, 1]
