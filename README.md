@@ -5,7 +5,11 @@ Stanislav Kim
 
 https://www.hackerrank.com/fullaccepted?hr_r=1
 
-hackerrank : 1005 pts.
+hackerrank: 1005 pts.
+
+total: 33 problems solved
+
+problems are mostly taken from hard and medium difficulty
 
 uploaded codes are changed for ability to test (added main functions and return values) 
 
