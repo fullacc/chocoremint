@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1531e8c-5a0b-4eb7-94de-83dba48ad935" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week1/tests/7test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/validating_credit_card_number7.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/validating_credit_card_number7.py" afterDir="false" />
-    </list>
+    <list default="true" id="b1531e8c-5a0b-4eb7-94de-83dba48ad935" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +24,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week1/tests/7test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="176">
+              <caret line="8" column="18" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week1/iterables_and_iterators8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week1/tests/8test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -114,6 +134,8 @@
         <option value="$PROJECT_DIR$/week1/the_minion_game6.py" />
         <option value="$PROJECT_DIR$/week1/validating_credit_card_number7.py" />
         <option value="$PROJECT_DIR$/week1/tests/7test.py" />
+        <option value="$PROJECT_DIR$/week1/iterables_and_iterators8.py" />
+        <option value="$PROJECT_DIR$/week1/tests/8test.py" />
       </list>
     </option>
   </component>
@@ -187,23 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for 8test.test_case_1">
-    <configuration name="pytest for 5test.test_case_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="chocoremint" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;5test.test_case_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest for 9test.test_case_1">
     <configuration name="pytest for 6test.test_case_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="chocoremint" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,13 +274,29 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for 9test.test_case_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="chocoremint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;9test.test_case_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for 9test.test_case_1" />
         <item itemvalue="Python tests.pytest for 8test.test_case_1" />
         <item itemvalue="Python tests.pytest for 7test.test_case_1" />
         <item itemvalue="Python tests.pytest for 6test.test_case_2" />
         <item itemvalue="Python tests.pytest for 6test.test_case_1" />
-        <item itemvalue="Python tests.pytest for 5test.test_case_2" />
       </list>
     </recent_temporary>
   </component>
@@ -289,17 +311,11 @@
       <option name="presentableId" value="Default" />
       <updated>1560022971541</updated>
       <workItem from="1560022973669" duration="7657000" />
-      <workItem from="1560060569510" duration="22441000" />
+      <workItem from="1560060569510" duration="23193000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_5test_test_case_1 - 2019.06.09 at 22h 57m 40s.xml">
-      <configuration name="pytest for 5test.test_case_1" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_5test_test_case_2 - 2019.06.09 at 22h 58m 34s.xml">
-      <configuration name="pytest for 5test.test_case_2" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_6test_test_case_1 - 2019.06.09 at 23h 00m 50s.xml">
       <configuration name="pytest for 6test.test_case_1" configurationId="tests" />
     </history-entry>
@@ -324,9 +340,15 @@
     <history-entry file="pytest_for_7test_test_case_1 - 2019.06.09 at 23h 30m 06s.xml">
       <configuration name="pytest for 7test.test_case_1" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_8test_test_case_1 - 2019.06.09 at 23h 32m 36s.xml">
+      <configuration name="pytest for 8test.test_case_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_8test_test_case_1 - 2019.06.09 at 23h 32m 50s.xml">
+      <configuration name="pytest for 8test.test_case_1" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30098000" />
+    <option name="totallyTimeSpent" value="30850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -368,13 +390,11 @@
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_5test_test_case_2.coverage" NAME="pytest for 5test.test_case_2 Coverage Results" MODIFIED="1560099514011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_6test_test_case_2.coverage" NAME="pytest for 6test.test_case_2 Coverage Results" MODIFIED="1560099773487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_7test_test_case_1.coverage" NAME="pytest for 7test.test_case_1 Coverage Results" MODIFIED="1560101406470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chocoremint$pytest_for_9test_test_case_1.coverage" NAME="pytest for 9test.test_case_1 Coverage Results" MODIFIED="1560102372863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_4test_test_case_2.coverage" NAME="pytest for 4test.test_case_2 Coverage Results" MODIFIED="1560099307640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chocoremint$pytest_for_5test_test_case_1.coverage" NAME="pytest for 5test.test_case_1 Coverage Results" MODIFIED="1560099460151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week1/4division.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/week1/5loops.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -733,10 +753,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week1/iterables_and_iterators8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week1/tests/7test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="176">
+          <caret line="8" column="18" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/tests/8test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

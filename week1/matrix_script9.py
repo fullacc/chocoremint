@@ -1,21 +1,32 @@
 import re
 
-nm = input().split()
 
-n = int(nm[0])
+def matr():
+    nm = input().split()
 
-m = int(nm[1])
+    n = int(nm[0])
 
-matrix = []
+    m = int(nm[1])
 
-s = ''
+    matrix = []
 
-for _ in range(n):
-    matrix_item = input()
-    matrix.append(matrix_item)
+    s = ""
 
-for i in range(0, m):
-    for j in range(0, n):
-        s = s + matrix[j][i]
+    for _ in range(n):
+        matrix_item = input()
+        matrix.append(matrix_item)
 
-print(re.sub(r"(?<=([A-Za-z0-9]))([^A-Za-z0-9]+)(?=([A-Za-z0-9]))", " ", s))
+    for i in range(0, m):
+        for j in range(0, n):
+            s = s + matrix[j][i]
+
+    print(re.sub(r"(?<=([A-Za-z0-9]))([^A-Za-z0-9]+)(?=([A-Za-z0-9]))", " ", s))
+    return re.sub(r"(?<=([A-Za-z0-9]))([^A-Za-z0-9]+)(?=([A-Za-z0-9]))", " ", s)
+
+
+def main():
+    matr()
+
+
+if __name__ == "__main__":
+    main()
