@@ -9,8 +9,10 @@ def ifelse(n):
 
     if used == 1:
         print("Weird")
+        return "Weird"
     else:
         print("Not Weird")
+        return "Not Weird"
 
 def main():
     n = int(input())
