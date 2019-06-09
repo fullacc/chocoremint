@@ -1,20 +1,25 @@
-nm = input().split()
+def noidea():
+    nm = input().split()
 
-n = int(nm[0])
+    n = int(nm[0])
 
-m = int(nm[1])
+    m = int(nm[1])
 
-to_analyze = input().split(" ")
+    to_analyze = input().split(" ")
 
-happy = set(input().split(" "))
-unhappy = set(input().split(" "))
+    happy = set(input().split(" "))
+    unhappy = set(input().split(" "))
 
-answer = 0
+    answer = 0
 
-for i in to_analyze:
-    if i in happy:
-        answer += 1
-    elif i in unhappy:
-        answer -= 1
+    for i in to_analyze:
+        if i in happy:
+            answer += 1
+        elif i in unhappy:
+            answer -= 1
 
-print(answer)
+    print(answer)
+    return answer
+
+if __name__ == '__main__':
+    noidea()
